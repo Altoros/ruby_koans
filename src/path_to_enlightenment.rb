@@ -17,7 +17,7 @@ require 'about_methods'
 # end
 # require 'about_constants'
 require 'about_control_statements'
-require 'about_true_and_false'
+#require 'about_true_and_false'
 require 'about_triangle_project'
 require 'about_exceptions'
 require 'about_triangle_project_2'
